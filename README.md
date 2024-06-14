@@ -1,14 +1,10 @@
-<h1 align="center"><b>Hi , I'm Matias G </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Matias Gonzalez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+-+Bienvenido+-+Willkommen..&hearts;++;Self-taught+Developer,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+technologys..<3"></a>
 </p>
 
-
 <br>
-
-
-
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -20,7 +16,7 @@
 - Currently learning Web Development on my own and for my professional career.
 - I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://read.cv/0xabdulkhalid](https://drive.google.com/file/d/1zRbVKOLhFu4RgxkavJbeAcxHmqfbe_mN/view))
 
-<br><br>
+<br>
 
 ## 🛠️ My Skills
 
@@ -39,6 +35,9 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
+	<span>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+	</span>
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white">
@@ -47,6 +46,8 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
+  &emsp;
+  <a><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
@@ -117,7 +118,7 @@
 
 <div align='left'>
 
-<ul>
+	
+<a target="_blank" href="https://www.linkedin.com/in/matias-r-gonzalez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
-<li>
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+
